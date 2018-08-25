@@ -74,6 +74,7 @@
     <Compile Include="TestProc\InvokeExecuter.cs" />
     <Compile Include="TestProc\TaskExecute.cs" />
     <Compile Include="TestProc\ThreadExecuter.cs" />
+    <Compile Include="Utility.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
